@@ -1,4 +1,4 @@
 openai
 gradio
 pyttsx3
-pydantic
+pydantic==1.8
