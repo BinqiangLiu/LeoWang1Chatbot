@@ -1,3 +1,4 @@
 openai
 gradio
 pyttsx3
+pydantic
