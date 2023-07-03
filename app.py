@@ -1,11 +1,13 @@
 #pip install openai
 #pip install gradio
 #pip install pyttsx3
-#pip install openai gradio pyttsx3
+#pip install pydantic
+#pip install openai gradio pyttsx3 pydantic
 
 import gradio as gr
 import openai
 import pyttsx3
+import pydantic
 
 from dotenv import load_dotenv
 import os
