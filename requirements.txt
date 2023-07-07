@@ -3,3 +3,4 @@ gradio
 pyttsx3
 pydantic
 python-dotenv
+comtypes
